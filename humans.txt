@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Ernesto Serrano <erseco@correo.ugr.es>
+	Garoé Expósito Luis <garoluis@correo.ugr.es
+	Daniel Pérez Gázquez <Plenidag@correo.ugr.es>
+	Jose Fco Alcalde <jfap0003@correo.ugr.es>
+
+# THANKS
+
+    Carlos Cruz <carloscruz@decsai.ugr.es>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Twitter Bootstrap, Modernizr
