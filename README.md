@@ -30,3 +30,6 @@ Puede ver una demostración del funcionamiento de esta web en la dirección:
 http://ddsi.ernesto.es/
 
 NOTA: Esta web utiliza la extension php-pdo-mysql.dll de php, por lo que debera estar activa en el php.ini
+
+---
+Si quieres contactar conmigo: http://www.ernesto.es
