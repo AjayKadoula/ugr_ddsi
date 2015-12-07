@@ -27,7 +27,7 @@ Una vez hecho esto podra acceder a la web
 
 Puede ver una demostración del funcionamiento de esta web en la dirección:
 
-http://ddsi.ernesto.es/
+http://pw.ernesto.es/
 
 NOTA: Esta web utiliza la extension php-pdo-mysql.dll de php, por lo que debera estar activa en el php.ini
 
